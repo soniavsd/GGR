@@ -1,5 +1,5 @@
 ---
-title: "Stop the Global Gag Rule"
+title: "Policy Impact"
 author: "Vanessa Ramos"
 date: "`r Sys.Date()`"
 output: html_document
